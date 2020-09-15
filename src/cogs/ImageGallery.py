@@ -40,7 +40,7 @@ class ImageGallery(commands.Cog):
 4 - Selección de imagen```""", inline=False)
             await ctx.send(embed=embed)
             #Recibimos el mensaje de la persona especifica
-            msg = (await self.bot.wait_for('message', check=self.utils.check(ctx.author), timeout=5000)).content
+            msg = (await self.bot.wait_for('message', check=self.utils.checkNumber(ctx.author), timeout=5000)).content
         if msg == "1" or msg.lower() == "new" or msg.lower() == "nuevo" or msg.lower() == "nuevas":
             await self.newImages(ctx,dataJson,imageFolder,img_list,date_time)
             
@@ -80,7 +80,6 @@ class ImageGallery(commands.Cog):
             
     async def todayImages(self,ctx,dataJson,imageFolder,date_time):
         #Buscamos las imagenes añadidas a dia de hoy
-            todayImages = []
             todayImages = self.searchTodayImg(dataJson,date_time)
             #Si no hay, se indica
             if todayImages == []:
@@ -99,7 +98,7 @@ class ImageGallery(commands.Cog):
         #Preguntamos por numero
         await ctx.send(f"```Selecciona un número entre el 1 y {len(img_list)}.```")
         #Lo recogemos
-        msg = (await self.bot.wait_for('message', check= self.utils.check(ctx.author), timeout=5000)).content
+        msg = (await self.bot.wait_for('message', check= self.utils.checkNumber(ctx.author), timeout=5000)).content
         number = int(msg)
         #Comparamos y mostramos
         if number >=1 and number <= len(img_list):
@@ -153,11 +152,11 @@ class ImageGallery(commands.Cog):
     
     def searchTodayImg(self,jsonData,date_time):
         #Busca si hay imagenes del dia de hoy
-        newImages=[]
+        todayImages=[]
         for image in jsonData.values():
             if image['fecha'] == date_time:
-                newImages.append(image['ruta'])
-        return newImages
+                todayImages.append(image['ruta'])
+        return todayImages
     
     def imgEmbed(self,img,footer):
         #Incorporamos la imagen a un recuadro de texto

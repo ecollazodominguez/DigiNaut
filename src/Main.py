@@ -11,11 +11,15 @@ from Utils import Utils
 bot = commands.Bot(command_prefix='!')
 bot.add_cog(ImageGallery(bot))
 bot.add_cog(MiniGames(bot))
-
 utils = Utils()
+
+
 @bot.event
 async def on_ready():
 	print('We have logged in as {0.user}'.format(bot))
+	activity = discord.Activity(name='a Lua cambiarse', type=discord.ActivityType.watching)
+	await bot.change_presence(activity=activity)
+	
 @bot.event
 #Detecta el mensaje y actua segun lo que trate
 async def on_message(message):
@@ -73,8 +77,6 @@ async def dados(ctx,cara=0,tiradas=0,bonificacion=0):
 		embed.add_field(name=f"""Tirada {i+1}:""",value=f"""```{resDado} + {bonificacion} = {resDado+bonificacion}```""")
 		await ctx.send(embed=embed)
 		
-	
-#TODO: comando minijuegos tipo "adivina el numero", "tres en raya..."
 
 token = open('../token.txt', "r")
 bot.run(token.read())	
