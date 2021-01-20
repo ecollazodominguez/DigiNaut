@@ -4,7 +4,8 @@ from discord.ext import commands
 from cogs.ImageGallery import ImageGallery
 from cogs.MiniGames import MiniGames
 from Utils import Utils
-
+import os
+from discord.ext.commands import CommandNotFound
 
 
 #Prefijo para los comandos
@@ -13,11 +14,15 @@ bot.add_cog(ImageGallery(bot))
 bot.add_cog(MiniGames(bot))
 utils = Utils()
 
+if not os.path.exists("cadena.txt"):
+	f = open('cadena.txt', 'w')
+	f.close()
+
 
 @bot.event
 async def on_ready():
 	print('We have logged in as {0.user}'.format(bot))
-	activity = discord.Activity(name='a Lua cambiarse', type=discord.ActivityType.watching)
+	activity = discord.Activity(name='Seeking the World', type=discord.ActivityType.watching)
 	await bot.change_presence(activity=activity)
 	
 @bot.event
@@ -39,6 +44,13 @@ async def on_message(message):
 		mentions = [role.mention for role in ctx.guild.roles if role.name == "Princesa"]
 		await channel.send(mentions[0] +' de mi corazón <3')
 	await bot.process_commands(message)
+	
+@bot.event
+async def on_command_error(ctx, error):
+	if isinstance(error, CommandNotFound):
+		await ctx.send("Ese comando no existe pesada")
+		return
+	raise error
 
 @bot.command()
 async def dados(ctx,cara=0,tiradas=0,bonificacion=0):
@@ -77,7 +89,33 @@ async def dados(ctx,cara=0,tiradas=0,bonificacion=0):
 		embed.add_field(name=f"""Tirada {i+1}:""",value=f"""```{resDado} + {bonificacion} = {resDado+bonificacion}```""")
 		await ctx.send(embed=embed)
 		
-
+@bot.command()
+async def cadena(ctx, *args):
+	msg = " ".join(args[:])
+	if msg == "":
+		embed=discord.Embed(color=0xff7700)
+		embed.add_field(name="Cadena de palabras.", value="""Solo tienes que escribir una frase... ¡Venga inténtalo!""", inline=False)
+		await ctx.send(embed=embed)			
+		msg = (await bot.wait_for('message', check=lambda message: not message.author.bot, timeout=5000)).content
+	
+	saveCadenaTxt(msg)
+	await loadCadenaTxt(ctx)
+	
+		
+async def loadCadenaTxt(ctx):
+		#Lee el txt
+	if os.path.exists("cadena.txt"):
+		f = open("cadena.txt", "r")
+		await ctx.send(f"```{f.read()}```")
+		f.close()
+		
+def saveCadenaTxt(phrase):
+		#Guarda el txt
+	if os.path.exists("cadena.txt"):
+		f = open("cadena.txt", "a")
+		f.write(f" {phrase}")
+		f.close()
+	
 token = open('../token.txt', "r")
 bot.run(token.read())	
 token.close()

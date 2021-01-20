@@ -31,7 +31,7 @@
     "P": "¿Cuál es el tutor de la clase de superheroes de primer año en Boku no Hero?",
     "Rc": "Aizawa",
     "R2": "All Might",
-    "R3": "Recover Girl",
+    "R3": "Recovery Girl",
     "R4": "All for One"
   },
   "6": {
@@ -101,7 +101,7 @@
     "P": "¿Cuál de estos no es un villano de Dragon Ball Z?",
     "Rc": "Krillin",
     "R2": "Célula",
-    "R3": "Freeza",
+    "R3": "Frieza",
     "R4": "Majin Buu"
   },
   "16": {
@@ -117,5 +117,236 @@
     "R2": "Cazador de shinigamis",
     "R3": "Cazador de diablos",
     "R4": "Cazador de sombras"
+  },
+  "18": {
+    "P": "¿Como se llama la hermana de Tanjiro en Kimetsu no Yaiba?",
+    "Rc": "Nezuko",
+    "R2": "Riza",
+    "R3": "Mitsuri",
+    "R4": "Toga"
+  },
+  "19": {
+    "P": "¿Qué cantante era conocido por hacer los openins de Digimon?",
+    "Rc": "Kouji Wada",
+    "R2": "LiSA",
+    "R3": "Eufonius",
+    "R4": "Chata"
+  },
+  "20": {
+    "P": "¿Cuál es la bebida favorita de Okabe Rintarou de Steins;Gate?",
+    "Rc": "Dr Pepper",
+    "R2": "Pepsy",
+    "R3": "Coko Cola",
+    "R4": "Mw Banana"
+  },
+  "21": {
+    "P": "¿Cuál es el nombre del zorro que habita en el ombligo de Naruto?",
+    "Rc": "Kurama",
+    "R2": "Ninetails",
+    "R3": "Kuntails",
+    "R4": "Narama"
+  },
+  "22": {
+    "P": "¿Qué número de Hokage fue Naruto?",
+    "Rc": "7",
+    "R2": "6",
+    "R3": "5",
+    "R4": "4"
+  },
+  "23": {
+    "P": "¿Cuántas temporadas de Inazuma Eleven hay?(2020)",
+    "Rc": "6",
+    "R2": "5",
+    "R3": "4",
+    "R4": "7"
+  },
+  "24": {
+    "P": "¿Cuál es el nombre completo de Kirito de SAO?",
+    "Rc": "Kazuto Kirigaya",
+    "R2": "Kazuto Kirata",
+    "R3": "Kazito Kirigaya",
+    "R4": "Kazito Kirata"
+  },
+  "25": {
+    "P": "¿Cuál es el nombre de los tres muros en Attack on Titan?",
+    "Rc": "Maria, Rose, Sina",
+    "R2": "Emma, Juli, Sina",
+    "R3": "Maria, Rose, Cena",
+    "R4": "Emma, Juli, Cena"
+  },
+  "26": {
+    "P": "¿Cuál fue el anime más esperado en otoño de 2019?",
+    "Rc": "Boku no Hero",
+    "R2": "SAO",
+    "R3": "Assassins Pride",
+    "R4": "SDS"
+  },
+  "27": {
+    "P": "¿Quién de estos superhéroes es el hermano de Tenya en Boku no Hero?",
+    "Rc": "Ingenium",
+    "R2": "Tamura",
+    "R3": "Nomu",
+    "R4": "Kurogiri"
+  },
+  "28": {
+    "P": "¿Quién ganó el festival del deporte en Boku no Hero?",
+    "Rc": "Katsuki Bakugo",
+    "R2": "Izuku Midoriya",
+    "R3": "Endeavor",
+    "R4": "Shoto Todoroki"
+  },
+  "29": {
+    "P": "Durante la prueba de comprensión de los dones ¿Qué puntuación sacó Deku cuanto lazón la bola?",
+    "Rc": "705.3",
+    "R2": "507.3",
+    "R3": "603.7",
+    "R4": "307.6"
+  },
+  "30": {
+    "P": "¿Célula fue la creación perfecta de quién?",
+    "Rc": "Dr Gero",
+    "R2": "Dr Mashirito",
+    "R3": "Dr Wheelo",
+    "R4": "Frieza"
+  },
+  "31": {
+    "P": "¿Cuántos años tiene el líder del gremio de Fairy Tail Makarov Dreyar?",
+    "Rc": "88",
+    "R2": "92",
+    "R3": "110",
+    "R4": "85"
+  },
+  "32": {
+    "P": "De los siguientes Animes cual NO es un Mahou Shoujo",
+    "Rc": "Princess Princess",
+    "R2": "Heartcatch",
+    "R3": "Mahou Shoujo Madoka Magica",
+    "R4": "Cardcaptor Sakura"
+  },
+  "33": {
+    "P": "¿Cuántas razas existen en Disboard, el mundo fantástico de No Game No Life?",
+    "Rc": "16",
+    "R2": "17",
+    "R3": "14",
+    "R4": "15"
+  },
+  "34": {
+    "P": "¡Descubre al villano!",
+    "Rc": "Naraku",
+    "R2": "Todoroki Shouto",
+    "R3": "Kurapika",
+    "R4": "Lambo"
+  },
+  "35": {
+    "P": "¿Qué espíritu en Date A Live tiene a Gabriel como su Angel?",
+    "Rc": "Miku",
+    "R2": "Kotori",
+    "R3": "Yuzuru",
+    "R4": "Yoshino"
+  },
+  "36": {
+    "P": "¿Qué pensó Goku que era casarse cuando se lo prometió a Chichi?",
+    "Rc": "Algo de comer",
+    "R2": "No tenía ni idea",
+    "R3": "La muerte",
+    "R4": "Lo sabía"
+  },
+  "37": {
+    "P": "¿Cuál de estas 16 razas es la más poderosa en No Game No Life?",
+    "Rc": "Old Deus",
+    "R2": "Imanity",
+    "R3": "Siren",
+    "R4": "Dragonia"
+  },
+  "38": {
+    "P": "¿Qué tipo de Slayer no existe en Fairy Tail?",
+    "Rc": "Phoenix Slayer",
+    "R2": "Dragon Slayer",
+    "R3": "Devil Slayer",
+    "R4": "God Slayer"
+  },
+  "39": {
+    "P": "¿De qué gremio es líder Krusty en Log Horizon?",
+    "Rc": "DDD",
+    "R2": "Shopping District 8",
+    "R3": "Log Horizon",
+    "R4": "West Wind Brigade"
+  },
+  "40": {
+    "P": "¿En Danmachi en qué ciudad está la mazmorra?",
+    "Rc": "Orario",
+    "R2": "Horaido",
+    "R3": "Gazen",
+    "R4": "Henna"
+  },
+  "41": {
+    "P": "¿En Assassination Classrom cuantos estudiantes hay en la clase de Koro sensei?",
+    "Rc": "28",
+    "R2": "25",
+    "R3": "29",
+    "R4": "30"
+  },
+  "42": {
+    "P": "¿En Noragami cuál es el nombre real de Yato?",
+    "Rc": "Yaboku",
+    "R2": "Yatoro",
+    "R3": "Yataro",
+    "R4": "Yaboto"
+  },
+  "43": {
+    "P": "¿Cuál de estos animes no es una adaptación de un videojuego?",
+    "Rc": "Psycho Pass",
+    "R2": "Danganronpa",
+    "R3": "Persona 5",
+    "R4": "Steins Gate"
+  },
+  "44": {
+    "P": "En Erased (Boku Dake ga Inai Machi) ¿A qué año viaja Satoru?",
+    "Rc": "1988",
+    "R2": "1999",
+    "R3": "1986",
+    "R4": "1995"
+  },
+  "45": {
+    "P": "¿Cuántos pilares hay en Kimetsu no Yaiba?",
+    "Rc": "9",
+    "R2": "10",
+    "R3": "7",
+    "R4": "12"
+  },
+  "46": {
+    "P": "En Shigatsu Kimi Wa No Uso, ¿Qué instrumento estaba tocando Kaori cuando Kousei la vió por primera vez?",
+    "Rc": "Melodica",
+    "R2": "Armónica",
+    "R3": "Violín",
+    "R4": "Piano"
+  },
+  "47": {
+    "P": "¿Contra quién usa Asta de Black Clover por primera vez su Black Form?",
+    "Rc": "Ladros",
+    "R2": "Licht",
+    "R3": "Vetoo",
+    "R4": "Langris"
+  },
+  "48": {
+    "P": "Happy de Fairy Tail es un...",
+    "Rc": "Exceed",
+    "R2": "Gatos con alas",
+    "R3": "Demonio",
+    "R4": "Dragon"
+  },
+  "49": {
+    "P": "¿Cuál es la altura del Titán Colossal en Attack on Titan?",
+    "Rc": "60m",
+    "R2": "65m",
+    "R3": "70m",
+    "R4": "75m"
+  },
+  "50": {
+    "P": "¿Qué club es el que quiere restaurar Nagisa en Clannad?",
+    "Rc": "Club de teatro",
+    "R2": "Club de literatura clásica",
+    "R3": "Club de música clásica",
+    "R4": "Club de periodismo"
   }
 }

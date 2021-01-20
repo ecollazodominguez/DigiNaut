@@ -1,317 +1,352 @@
 ﻿{
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "1": {
+    "P": "¿Cuál es la rama mayoritaria del Islam?",
+    "Rc": "Sunismo",
+    "R2": "Chiísmo",
+    "R3": "Jariyismo",
+    "R4": "Sufismo"
+  },
+  "2": {
+    "P": "¿De qué fue ministro Manuel Fraga durante el franquismo?",
+    "Rc": "De Información y Turismo",
+    "R2": "De Interior",
+    "R3": "De Economía",
+    "R4": "Del Ejército"
+  },
+  "3": {
+    "P": "¿En qué año tuvo lugar el ataque a Pearl Harbor?",
+    "Rc": "1941",
+    "R2": "1939",
+    "R3": "1940",
+    "R4": "1942"
+  },
+  "4": {
+    "P": "¿Cómo murió Jacques de Molay, último gran maestre templario?",
+    "Rc": "En la hoguera",
+    "R2": "Envenenado",
+    "R3": "De risa",
+    "R4": "Enfermedad"
+  },
+  "5": {
+    "P": "¿De que estaba fabricado originalmente el maquillaje blanco de las Geishas?",
+    "Rc": "Plomo",
+    "R2": "Harina",
+    "R3": "Arroz molido",
+    "R4": "Flores de loto"
+  },
+  "6": {
+    "P": "¿Cuántos mandamientos hay en el cristianismo?",
+    "Rc": "10",
+    "R2": "9",
+    "R3": "11",
+    "R4": "12"
+  },
+  "7": {
+    "P": "¿Qué ciudad fue llamada por los árabes Al-Basit?",
+    "Rc": "Albacete",
+    "R2": "Alicante",
+    "R3": "Albarracín",
+    "R4": "Almería"
+  },
+  "8": {
+    "P": "¿Cómo se llamaba el hijo bastardo de Carlos V ?",
+    "Rc": "Juan de Austria",
+    "R2": "Duque de Alba",
+    "R3": "Juan de Tordesillas",
+    "R4": "Marqués de Villena"
+  },
+  "9": {
+    "P": "¿Qué evento histórico da comienzo a la Edad Contemporánea?",
+    "Rc": "La Revolución Francesa",
+    "R2": "La Guerra de los 100 años",
+    "R3": "Guerra de Independencia",
+    "R4": "La caída del Imperio Romano de Occidente"
+  },
+  "10": {
+    "P": "¿Cuál es el país menos turístico de Europa?",
+    "Rc": "Liechtenstein",
+    "R2": "Hungría",
+    "R3": "Moldavia",
+    "R4": "Armenia"
   },
   "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+    "P": "¿Con cuántos países limita Argentina?",
+    "Rc": "5",
+    "R2": "6",
+    "R3": "3",
+    "R4": "4"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "12": {
+    "P": "¿Qué ciudad europea es famosa por la belleza de su parlamento?",
+    "Rc": "Budapest",
+    "R2": "Praga",
+    "R3": "Madrid",
+    "R4": "París"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "13": {
+    "P": "¿Dónde se encuentra Baiona?",
+    "Rc": "Pontevedra",
+    "R2": "Francia",
+    "R3": "País Vasco",
+    "R4": "Andalucia"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "14": {
+    "P": "¿Dónde está la ciudad de Mostar?",
+    "Rc": "Bosnia y Herzegovina",
+    "R2": "Montenegro",
+    "R3": "Serbia",
+    "R4": "Croacia"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "15": {
+    "P": "¿Dónde se encuentra la ciudad de Bahía Blanca?",
+    "Rc": "Argentina",
+    "R2": "Uruguay",
+    "R3": "Chile",
+    "R4": "Brasil"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "16": {
+    "P": "¿En qué provincia desemboca el Ebro en el Mediterráneo?",
+    "Rc": "Tarragona",
+    "R2": "Castellón",
+    "R3": "Barcelona",
+    "R4": "Zaragoza"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "17": {
+    "P": "¿Cuál es el país más pequeño de Asia?",
+    "Rc": "Maldivas",
+    "R2": "Nauru",
+    "R3": "Laos",
+    "R4": "Japón"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "18": {
+    "P": "¿Cuál es el pico más alto de África?",
+    "Rc": "Kilimanjaro",
+    "R2": "Mckinley",
+    "R3": "K2",
+    "R4": "Monte Perdido"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "19": {
+    "P": "¿Cuál de las Islas Canarias es la más grande?",
+    "Rc": "Tenerife",
+    "R2": "Gran Canaria",
+    "R3": "Fuerteventura",
+    "R4": "La Palma"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "20": {
+    "P": "¿Cuál de las sisguientes enfermedades ataca al higado?",
+    "Rc": "Hepatitis",
+    "R2": "Diabetes",
+    "R3": "Artrósis",
+    "R4": "Cifoescoliosis"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "21": {
+    "P": "¿Cuántas caras tiene un icosaedro?",
+    "Rc": "20",
+    "R2": "16",
+    "R3": "8",
+    "R4": "24"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "22": {
+    "P": "¿Por qué los cocodrilos mantienen la boca abierta durante largo rato?",
+    "Rc": "Para calentarse",
+    "R2": "Para hacer la digestión",
+    "R3": "Para beber agua",
+    "R4": "Por si se cuela algo que puedan comerse"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "23": {
+    "P": "¿Cómo se llama la parte de la estructura de una cúpula que la sostiene",
+    "Rc": "Tambor",
+    "R2": "Nervaduras",
+    "R3": "Contrafuerte",
+    "R4": "Ninguna"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "24": {
+    "P": "¿En qué parte del cuerpo se encuentra el tendón de Aquiles?",
+    "Rc": "En el tobillo",
+    "R2": "En el brazo",
+    "R3": "En la espalda",
+    "R4": "En la rodilla"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "25": {
+    "P": "¿Que se opera en una rinoplastia?",
+    "Rc": "La nariz",
+    "R2": "El pecho",
+    "R3": "Liposucción",
+    "R4": "Plasta de rinoceronte"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "26": {
+    "P": "¿Cuál es la combinación de las teclas que copia texto en un PC?",
+    "Rc": "ctrl + c",
+    "R2": "ctrl + p",
+    "R3": "ctrl + q",
+    "R4": "ctrl + v"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "27": {
+    "P": "¿Qué significa ARN?",
+    "Rc": "Ácido Ribonucleico",
+    "R2": "Ácido Rico en Nucleo",
+    "R3": "Ácido Desoxirribonucleico",
+    "R4": "Antena Rosa y Numerada"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "28": {
+    "P": "¿Quién escribió 'El viejo y el mar?'",
+    "Rc": "Ernest Hemingway",
+    "R2": "Norman Mailer",
+    "R3": "Gabriel García Márquez",
+    "R4": "Truman Capote"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "29": {
+    "P": "Los amantes de Teruel...",
+    "Rc": "Tonta ella y tonto él",
+    "R2": "Viajaban en carrusel",
+    "R3": "Vivían en un burdel",
+    "R4": "Existieron en papel"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "30": {
+    "P": "¿Qué describe una prosopografía?",
+    "Rc": "El físico de una persona",
+    "R2": "El carácter de una persona",
+    "R3": "El fisico y el carácter de una persona",
+    "R4": "Caricaturiza a una persona"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "31": {
+    "P": "¿Quién es la autora de 'Los Juegos del Hambre'?",
+    "Rc": "Suzanne Collins",
+    "R2": "Blue Jeans",
+    "R3": "Jordi Sierra i Fabra",
+    "R4": "Bono Bidari"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "32": {
+    "P": "¿De qué material está hecho un saxofón?",
+    "Rc": "Latón",
+    "R2": "Cobre",
+    "R3": "Hierro",
+    "R4": "Acero"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "33": {
+    "P": "¿Cómo se llama el perro de Obélix?",
+    "Rc": "Ideafix",
+    "R2": "Panoramix",
+    "R3": "Milú",
+    "R4": "Indiofix"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "34": {
+    "P": "¿En qué lugar fue gobernador Sancho Panza?",
+    "Rc": "La ínsula Barataria",
+    "R2": "Macondo",
+    "R3": "Guilligan",
+    "R4": "Madagascar"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "35": {
+    "P": "¿Quién pintó 'Las Meninas'?",
+    "Rc": "Velázquez",
+    "R2": "Goya",
+    "R3": "Van Gogh",
+    "R4": "Monet"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "36": {
+    "P": "¿En qué año apareció por primera vez el personaje Astérix?",
+    "Rc": "1959",
+    "R2": "1961",
+    "R3": "1965",
+    "R4": "1969"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "37": {
+    "P": "¿Cuál es el siglo más importante para el arte barroco en España?",
+    "Rc": "XVII",
+    "R2": "XV",
+    "R3": "XI",
+    "R4": "XXI"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "38": {
+    "P": "¿Qué actor interpretaba a 'Hache' en la película 3MSC?",
+    "Rc": "Mario Casas",
+    "R2": "Dani Martín",
+    "R3": "Miguel Angel Silvestre",
+    "R4": "Hugo Silva"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "39": {
+    "P": "¿Cómo se llama el pájaro símbolo de los Juegos del Hambre?",
+    "Rc": "Sinsajo",
+    "R2": "Lechuza",
+    "R3": "Gale",
+    "R4": "Llamas"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "40": {
+    "P": "¿Cómo se llama el robot alcohólico de la serie 'Futurama'?",
+    "Rc": "Bender",
+    "R2": "Zoidberg",
+    "R3": "Leela",
+    "R4": "Hubert"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "41": {
+    "P": "¿Quién es el profesor del colegio Hogwarts que se convierte en Hombre lobo?",
+    "Rc": "Remus Lupin",
+    "R2": "Romulus Lupin",
+    "R3": "James Potter",
+    "R4": "Subill Trelawney"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "42": {
+    "P": "¿A qué se dedica el personaje led Mosby de  'Como conocí a vuestra madre?",
+    "Rc": "Arquitecto",
+    "R2": "Abogado",
+    "R3": "Publicista",
+    "R4": "Periodista"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "43": {
+    "P": "¿Cuál es la nacionalidad de la cantante Shakira?",
+    "Rc": "Colombiana",
+    "R2": "Venezolana",
+    "R3": "Ecuatoriana",
+    "R4": "Peruana"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "44": {
+    "P": "Cómo se llamaba el primer gato de Los Simpsons?",
+    "Rc": "Bola de nieve",
+    "R2": "Nieve",
+    "R3": "Bolita",
+    "R4": "Gato"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "45": {
+    "P": "¿En cuál de estos grupos no canta una mujer?",
+    "Rc": "Smashing Pumpkins",
+    "R2": "La oreja de Van Gogh",
+    "R3": "Evanescence",
+    "R4": "Garbage"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "46": {
+    "P": "Qué selección acumula mayor cantidad de expulsados en mundiales de fútbol?",
+    "Rc": "Argentina",
+    "R2": "Brasil",
+    "R3": "Italia",
+    "R4": "Camerún"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "47": {
+    "P": "¿Con qué apodo fue conocido el velocista Carl Lewis?",
+    "Rc": "El hijo del viento",
+    "R2": "La gacela negra",
+    "R3": "La chispa de Birmingham",
+    "R4": "El rayo"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "48": {
+    "P": "¿Cómo se llama la liga española de balonmano?",
+    "Rc": "Asobal",
+    "R2": "Abobal",
+    "R3": "Balonbal",
+    "R4": "Liga Balonmano"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "49": {
+    "P": "¿Cuántos títulos mundiales posee el motociclista Valentino Rossi?",
+    "Rc": "9",
+    "R2": "2",
+    "R3": "5",
+    "R4": "7"
   },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
-  },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
-  },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
-  },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
-  },
-  "11": {
-    "P": "",
-    "Rc": "",
-    "R2": "",
-    "R3": "",
-    "R4": ""
+  "50": {
+    "P": "¿Quién ganó dos veces tres campeonatos consecutivamente en la NBA?",
+    "Rc": "Michael Jordan",
+    "R2": "Lebrón James",
+    "R3": "Brian Scalabrine",
+    "R4": "Bill Russel"
   }
 }
